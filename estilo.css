@@ -1,0 +1,406 @@
+*{
+    margin: 50;
+    padding: 50;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+}
+
+.cabecalho{
+    width: 90%;
+    background-color: rgba(213, 184, 253, 0.877);
+    padding: 45px 8%;
+    float: left;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    max-width: 100%;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, rgb(173, 162, 212), rgb(147, 128, 204));
+}
+
+.menu{
+    background-color: rgb(199, 170, 250);
+    width: 85%;
+    padding: 18px 8%;
+    float: left;
+}
+
+.menu li{
+    float: left;
+    font-size: 17px;
+}
+
+.menu li a{
+    color: black;
+    margin-right: 30px;
+    background-color: rgba(176, 91, 255, 0.212);
+    padding: 8px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color: rgb(223, 203, 255);
+    background-color: rgb(125, 15, 228);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.menu img{
+    float: right;
+    width: 35px;
+    margin-left: 25px;
+}
+
+.principal{
+    width: 75%;
+    float: left;
+    padding: 10px;
+}
+
+.sobre{
+    width: 100%;
+    float: left;
+    padding: 0 20px 20px 0;
+}
+
+.sobre h2{
+    margin-bottom: 30px;
+    color: rgb(31, 6, 46);
+    font-size: 25px;
+}
+
+.sobre img{
+    margin: 0 15px 15px 0;
+    width: 50%;
+    float: left;
+    border-radius: 10px;
+}
+
+.sobre p{
+    text-align: justify;
+    font-size: 16px;
+}
+
+.localizacao{
+    float: right;
+    margin-top: 90px;
+    padding: 30px 45px;
+    background-color: rgba(68, 21, 112, 0.486);
+    border-radius: 10px;
+    color: rgb(240, 229, 252);
+    width: 15%;
+}
+
+.localizacao h1{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.localizacao h2{ 
+    margin-bottom: 20px;
+}
+
+.localizacao iframe{
+    width: 100%;
+    height: 250px;
+}
+
+.newsletter{
+    width: 95%;
+    float: left;
+    background-color: rgba(68, 21, 112, 0.486);
+    padding: 15px 25px;
+}
+
+.newsletter h3{
+    font-size: 27px;
+    color: rgb(240, 229, 252);
+}
+
+.newsletter p{
+    font-size: 23px;
+    color: rgb(240, 229, 252);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.newsletter input{
+    padding: 11px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.newsletter button{
+    padding: 11px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 10px;
+}
+
+.newsletter button:hover{
+    background-color: rgb(31, 5, 56);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.VeT{
+    float: left;
+    width: 100%;
+}
+
+.vet{
+    width: 100%;  
+}
+
+
+.VeT h1{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 1%;
+    text-decoration-line: underline;
+    text-align: center;
+    
+}
+
+.VeT img{
+    margin: 0 15px 15px 0;
+    width: 22%;
+    float: left;
+    border-radius: 10px;
+}
+
+.VeT h2{
+    font-size: 30px;
+    text-align: justify;
+   font-family: initial;
+    
+   
+}
+
+.VeT h3{
+   
+    font-size: 25px;
+    text-align: justify;
+    text-decoration: underline;
+    
+}
+
+.VeT p{
+    text-align: justify;
+    font-size: 20px;
+    background-color: rgba(68, 21, 112, 0.486);
+    border-radius: 10px;
+    width: 75%;
+    color: rgb(240, 229, 252);
+    padding: 10px;
+}
+
+.devolução{
+    float: right;
+    width: 100%;
+    padding-top: 3%;
+}
+
+.devolução img{
+    margin: 0 15px 15px 0;
+    width: 20%;
+    float: right;
+    border-radius: 10px;
+}
+
+.devolução h2{
+    font-size: 35px;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.devolução p{
+    float: right;
+    text-align: justify;
+    font-size: 20px;
+    background-color: rgba(68, 21, 112, 0.486);
+    border-radius: 10px;
+    width: 50%;
+    color: rgb(240, 229, 252);
+    padding: 25px;
+}
+
+.importante{
+    background-color: rgba(68, 21, 112, 0.486);
+    color: rgb(240, 229, 252);
+    width: 100%;
+    float: left;
+    padding: 10px;
+    clear: left; /* depois de usar float usa o clear... tamanho arruma */
+    margin-bottom: 50px;
+
+}
+
+.importante img{
+    margin: 0 32px 32px 0;
+    width: 25%;
+    float: left;
+    border-radius: 10px;
+
+}
+
+.importante h1{
+    padding: 10px;
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.importante p{
+    text-align: justify;
+    font-size: 18px;
+    width: 73%;
+    padding: 10px;
+
+}
+
+
+.formulário{
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 10px;
+    width: 100%;
+    font-size: 18px;
+    clear: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulário1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(195, 176, 216);
+    color: rgb(73, 15, 128);
+    border-radius: 10px;
+}
+.formulário h1{
+    text-decoration: overline;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.formulário legend{
+    font-size: 25px;
+    text-decoration-line: underline;
+}
+
+.categorias h1{
+    padding-top: 22%;
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+   
+}
+
+.categorias table{
+    background-color: rgba(68, 21, 112, 0.486);
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.categorias img{
+    border-radius: 10px;
+}
+
+.categorias button{
+    padding: 12px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+.terror1, .Lnacional{
+    clear: left;
+    padding: 15px;
+}
+
+.tlivro{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+    background-color: rgba(68, 21, 112, 0.486);
+    color: rgb(240, 229, 252);
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.tlivro img{
+    border-radius: 10px;
+}
+
+.titulop{
+    margin: 49px 0;
+    font-size: 47px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+.tlivro .dados{
+    padding-top: 16px;
+
+}
+
+.tlivro .dados h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tlivro .dados h2{
+    font-size: 25px;
+
+}
+
+
+.tlivro .dados p{
+    line-height: 29px;
+    font-size: 16px;
+    padding-right: 109px;
+    text-align: justify;
+}
+
+.tlivro .valor button{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    width: 100px;
+    padding: 8px;
+    border-radius: 17px;
+    align-items: normal;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.tlivro .valor a{
+    width: fit-content;
+    display: block;
+    cursor: pointer;
+}
+
+
+
+

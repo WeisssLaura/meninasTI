@@ -1,0 +1,138 @@
+.terror1{
+    padding-top: 0;
+    background-color: rgb(71, 26, 85);
+    color: rgb(248, 240, 255);
+    border-radius: 10px;
+    width: 90%;
+}
+ .terror1 img{
+    width: 20%;
+    float: left;
+ }
+
+ .terror1 h1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .terror1 p{
+    text-align: justify;
+    font-size: 20px;
+ }
+
+ .terror2{
+    padding-top: 0;
+    background-color: rgb(71, 26, 85);
+    color: rgb(248, 240, 255);
+    border-radius: 10px;
+    width: 90%;
+}
+ .terror2 img{
+    width: 20%;
+    float: left;
+ }
+
+ .terror2 h1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .terror2 p{
+    text-align: justify;
+    font-size: 20px;
+ }
+
+ .terror3{
+    padding-top: 0;
+    background-color: rgb(71, 26, 85);
+    color: rgb(248, 240, 255);
+    border-radius: 10px;
+    width: 100%;
+}
+ .terror3 img{
+    width: 10%;
+    float: left;
+ }
+
+ .terror3 h1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .terror3 p{
+    text-align: justify;
+    font-size: 20px;
+ }
+
+ .terror4{
+    padding-top: 0;
+    background-color: rgb(71, 26, 85);
+    color: rgb(248, 240, 255);
+    border-radius: 10px;
+    width: 100%;
+}
+ .terror4 img{
+    width: 10%;
+    float: left;
+ }
+
+ .terror4 h1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .terror4 p{
+    text-align: justify;
+    font-size: 20px;
+ }
+
+ .terror5{
+    padding-top: 0;
+    background-color: rgb(71, 26, 85);
+    color: rgb(248, 240, 255);
+    border-radius: 10px;
+    width: 100%;
+}
+ .terror5 img{
+    width: 10%;
+    float: left;
+ }
+
+ .terror5 h1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .terror5 p{
+    text-align: justify;
+    font-size: 20px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+Orgulho e Preconceito
+Quem é você, Alasca?
+Como eu era antes de você
+Romeu e Julieta
+Garoto encontra garoto
+Quinze dias
+--------------------------------------------------------
+Os Goonies, de James Kahn
+hp pedra filosofal
+o ladrão de raios 
+O Guia do Mochileiro das Galáxias, de Douglas Adams
+As Crônicas de Nárnia, de C. S. Lewis
